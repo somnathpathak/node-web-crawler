@@ -27,8 +27,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/somnathpathak/node-web-crawler.git
+    $ cd node-web-crawler
     $ npm install
 
 ## Running the project
